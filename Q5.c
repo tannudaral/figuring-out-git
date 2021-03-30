@@ -3,7 +3,6 @@
 int main()
 {
     int n1, n2, temp;
-    printf("076 Tannu Daral\n");
     printf("Enter the numbers which are to be swapped:\nn1= ");
     scanf("%d", &n1);
     printf("n2= ");
@@ -22,7 +21,6 @@ int main()
 int main()
 {
     int n1, n2;
-    printf("076 Tannu Daral\n");
     printf("Enter the numbers which are to be swapped:\nn1= ");
     scanf("%d", &n1);
     printf("n2= ");
